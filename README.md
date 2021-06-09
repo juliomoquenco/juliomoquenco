@@ -4,4 +4,4 @@
 - [![](https://image.flaticon.com/icons/png/24/174/174857.png)]() Linkedin: https://www.linkedin.com/in/julio-moquenco-93b1a377/
 
 - [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=juliomoquenco&count_private=true&theme=tokyonight&showicons=true)]()
-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=juliomoquenco&theme=tokyonight&showicons=true)]()
+- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=juliomoquenco&theme=tokyonight&showicons=true&layout=compact&langs_count=10)]()
